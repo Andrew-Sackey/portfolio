@@ -27,11 +27,13 @@ nav {
 
 .hero-info {
     height: 60%;
-    padding: 15% ;
+    padding-top: 10%;
+    padding-bottom: 10%;
     width: 50%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    
 }
 
 .title {
